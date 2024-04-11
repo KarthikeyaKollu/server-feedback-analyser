@@ -1,12 +1,7 @@
 
 import google.generativeai as genai
-import PIL.Image
-import time
 import os
-import base64
-import vertexai
-from vertexai.preview.generative_models import GenerativeModel, Part
-import vertexai.preview.generative_models as generative_models
+
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'key.json'
 
 

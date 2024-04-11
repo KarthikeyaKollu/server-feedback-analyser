@@ -1,5 +1,4 @@
 import models
-import asyncio
 user_reviews = [
     "Improved durability for long-term use.",
     "Integration with other devices for increased functionality.",
